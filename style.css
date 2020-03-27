@@ -1,0 +1,66 @@
+body
+{
+    background-color: black;
+
+}
+
+.menu
+{
+    color: white;
+}
+
+.title
+{
+    text-align: center;
+    margin-top:20%;
+
+    font-size: 35pt;
+}
+
+.menu-buttons
+{
+    
+    list-style: none;
+    margin-left: 41%;
+}
+
+.menu-buttons li
+{   
+    display: inline-block;
+    border: 1px solid white;
+    padding: 1%;
+    margin-left: 2%;
+    text-shadow: 2px 2px black;
+   
+}
+
+.menu-buttons li:hover
+{
+    background-color: lightblue;
+    transition: all 0.5s ease-in ;
+
+}
+
+a:link
+{
+    color: white;
+}
+
+a:visited 
+{
+    color:white;
+}
+
+a:link 
+{
+    text-decoration: none;
+}
+
+p
+{
+color: white;
+text-align: center;
+font-size: 30pt;
+margin-top: 20%;
+}
+
